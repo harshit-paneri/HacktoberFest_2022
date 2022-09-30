@@ -36,7 +36,6 @@ Git Cheat | [Cheat Code](https://user-images.githubusercontent.com/51878265/1650
 
 ```
 git clone <git repo>
-
 ```
 - Navigate to project directory.
 ```
