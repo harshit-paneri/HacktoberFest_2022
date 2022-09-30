@@ -27,3 +27,60 @@ Git Cheat | [Cheat Code](https://user-images.githubusercontent.com/51878265/1650
 
 * [First Contributions](https://github.com/firstcontributions/first-contributions)
 * [Awesome for beginners](https://github.com/mungell/awesome-for-beginners)
+
+
+## Getting Started 🤩🤗:
+
+- Fork this repo (button on top)
+- Clone on your local machine
+
+```
+git clone <git repo>
+
+```
+- Navigate to project directory.
+```
+cd filename
+```
+
+- Create a new Branch
+
+```markdown
+git checkout -b my-new-branch
+```
+- Add your contribution
+```
+git add .
+```
+- Commit your changes.
+
+```markdown
+git commit -m "first commit"
+```
+- Then push 
+```
+git push origin my-new-branch
+```
+
+
+- Create a new pull request from your forked repository
+
+<br>
+
+## Avoid Conflicts {Syncing your fork}
+
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
+
+```terminal
+git remote add upstream <git repo>
+```
+
+You can verify that the new remote has been added by typing
+```terminal
+git remote -v
+```
+
+To pull any new changes from your parent repo simply run
+```terminal
+git merge upstream/master
+```
