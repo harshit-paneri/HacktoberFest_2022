@@ -16,6 +16,7 @@ Name | Resources Link
 Git & GitHub | [Kunal Kushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics)
 Markdown | [Eddie Jaoude](https://www.youtube.com/watch?v=OXZ77HvL_Yg)
 Git Cheat | [Cheat Code](https://user-images.githubusercontent.com/51878265/165011193-e6157e76-1d6f-45c2-9c95-594d9f9c6163.jpg)
+Git Cheat sheet | [Cheat PDF](\resources\Git-cheat-sheet-dark.pdf)
 
 # **RESOURCES FOR BEGINNERS**
 
