@@ -23,10 +23,14 @@ Git Cheat | [Cheat Code](https://user-images.githubusercontent.com/51878265/1650
 * DigitalOcean : [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
 
-## Best Beginner friendly Repostory
+# **Best Beginner friendly Repostory**
 
 * [First Contributions](https://github.com/firstcontributions/first-contributions)
 * [Awesome for beginners](https://github.com/mungell/awesome-for-beginners)
+* [Canvas Game](https://github.com/harshit-paneri/canvas-game)
+* [Introduction-webpage](https://github.com/Naman-sharma00100/Introduction-webpage)
+* [Basic_website_HTML_CSS_only
+](https://github.com/Naman-sharma00100/Basic_website_HTML_CSS_only)
 
 
 ## Getting Started 🤩🤗:
