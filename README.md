@@ -35,6 +35,7 @@ Git Cheat | [Cheat Code](https://user-images.githubusercontent.com/51878265/1650
 * [Introduction-webpage](https://github.com/Naman-sharma00100/Introduction-webpage)
 * [Basic_website_HTML_CSS_only
 ](https://github.com/Naman-sharma00100/Basic_website_HTML_CSS_only)
+* [Web Location](https://github.com/harshit-paneri/Web-Location)
 
 
 ## Getting Started 🤩🤗:
