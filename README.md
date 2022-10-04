@@ -30,8 +30,7 @@ Git Cheat sheet | [Cheat PDF](https://github.com/harshit-paneri/HacktoberFest_20
 
 # **Best Beginner friendly Repostory**
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions)
-* [Awesome for beginners](https://github.com/mungell/awesome-for-beginners)
+
 * [Canvas Game](https://github.com/harshit-paneri/canvas-game)
 * [Introduction-webpage](https://github.com/Naman-sharma00100/Introduction-webpage)
 * [Basic_website_HTML_CSS_only
