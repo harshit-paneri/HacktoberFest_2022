@@ -1,18 +1,16 @@
 <img src="image/Hfest.png">
 
-
-
 # Hacktober Fest 2022
 👋🏻 If you're new to Git and GitHub or are looking to get started with open source development, this repository is for you! I want to help you learn about these technologies and participate in Hacktoberfest, so I've collected some resources to get you started.
 
-By chance if you haven't registered for HacktoberFest, register here **[Hacktober Fest 2022](https://hacktoberfest.com/)**
+By chance if you haven't registered for HacktoberFest, register here **[Hacktober Fest 2022](https://hacktoberfest.com/)**.
 
 > ⭐ **Star this repository** to not lose it!
 
 ## **Learning Resources**
 
 - [Git & GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics) by Kunal Kushwaha
-- Learning [Markdown](https://www.youtube.com/watch?v=OXZ77HvL_Yg) in 15 minutes from Eddie Jaoude
+- [Learning Markdown](https://www.youtube.com/watch?v=OXZ77HvL_Yg) in 15 minutes from Eddie Jaoude
 - [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) from Github
 - [ProGit](https://github.com/harshit-paneri/HacktoberFest_2022/blob/main/resources/progit.pdf)- A book written by Scott Chacon and Ben Straub.
 
@@ -21,14 +19,18 @@ By chance if you haven't registered for HacktoberFest, register here **[Hacktobe
 ### Getting started with Open-Source
 
 Take your time and go through some of these articles to get an idea of what is open source.
-* DigitalOcean : [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
-* GitHub : [HOW TO CONTRIBUTE TO OPEN SOURCE](https://opensource.guide/how-to-contribute/)
-* DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutorials/what-is-open-source)
-* DigitalOcean : [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
-### **Some beginner friendly Repostory**
+* DigitalOcean : [What is Open Source?](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
-To help you get started with contributing, check them out!
+* DigitalOcean : [Introduction to Github and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+
+* GitHub : [How to contribute to open source ?](https://opensource.guide/how-to-contribute/)
+
+* DigitalOcean : [How to use git(VCS)?](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+
+### **Some beginner friendly Repository**
+
+To get started with contributing, check them out!
 
 ||
 |:-|
@@ -37,7 +39,7 @@ To help you get started with contributing, check them out!
 |3. [Basic Website with HTML and CSS only](https://github.com/Naman-sharma00100/Basic_website_HTML_CSS_only)|
 |4. [Web Location](https://github.com/harshit-paneri/Web-Location)|
 
-> For contributing in this repository, check the file `Contributor-list` folder.
+> For contributing in this repository, check the file `Contributors.md`.
 
 ## Getting Started 🤩🤗
 
@@ -99,5 +101,20 @@ To pull new changes from the parent repository, just do
 git merge upstream/master
 ```
 
+## FAQs
 
-> Following are the List of [Contributors](https://harshit-paneri.github.io/HacktoberFest_2022/Contributors)
+<details >
+<summary>How to Contribute?</summary>
+Try updating an existing feature or add a new feature !!
+
+Still no idea? Check out the issues in a github repository to see some work you can do.
+</details>
+
+<hr>
+<details>
+<summary>How to contribute to this repository?</summary>
+If you are getting started with contributing, you just need to add some details in <code>Contributors.md</code>, in the same format as the others.
+</details>
+<hr>
+
+>Check out the people who have [Contributed](https://harshit-paneri.github.io/HacktoberFest_2022/Contributors).
