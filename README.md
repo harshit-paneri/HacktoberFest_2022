@@ -84,17 +84,17 @@ To help you get started with contributing, check them out!
 
 An easy way to avoid conflicts is to add an `upstream` for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
-```bash
+```
 git remote add upstream <git repo>
 ```
 
 Verify that the new remote was been added by
-```bash
+```
 git remote -v
 ```
 
 To pull new changes from the parent repository, just do
 
-```bash
+```
 git merge upstream/master
 ```
