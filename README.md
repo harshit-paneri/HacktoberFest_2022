@@ -1,6 +1,6 @@
 <img src="image/Hfest.png">
 
-</br>
+
 
 # Hacktober Fest 2022
 👋🏻 If you're new to Git and GitHub or are looking to get started with open source development, this repository is for you! I want to help you learn about these technologies and participate in Hacktoberfest, so I've collected some resources to get you started.
