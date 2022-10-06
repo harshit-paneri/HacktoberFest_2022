@@ -38,6 +38,8 @@ To get started with contributing, check them out!
 |2. [Canvas Game](https://github.com/harshit-paneri/canvas-game)|
 |3. [Basic Website with HTML and CSS only](https://github.com/Naman-sharma00100/Basic_website_HTML_CSS_only)|
 |4. [Web Location](https://github.com/harshit-paneri/Web-Location)|
+|5. [Starting GIT in VS code ](https://github.com/prateekj7777/CODE_DEMO_FOR_VSCODE)|
+
 
 > For contributing in this repository, check the file `Contributors.md`.
 
