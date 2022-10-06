@@ -10,3 +10,4 @@ Deepesh Choudhary| Learn as if you will live forever, live like you will die tom
 Asim Ali DM| Just like the wild sea, keep expanding your boundaries. | asimdm
 Prateek Jaiswal| Nothing much just one step at a time | prateekj7777
 Naman sharma| Dive in first then judge | Naman-sharma00100
+Harsh Singh | Aim to change dark source to bright | Harshsingh21
