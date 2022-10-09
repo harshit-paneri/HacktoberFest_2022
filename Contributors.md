@@ -14,3 +14,4 @@ Harsh Singh | Aim to change dark source to bright | Harshsingh21
 Anjali Kundliya | There is nothing impossible to they who will try. | anjali-kundliya05
 Sammi Kanon | Time, effort, sacrifice, and sweat. That is how you pay for your goals! | SammiKanon
 Lakshya | 😊Smile Makes Your Day Happy| lakshya-paneri
+Jeevan Sainik | The greatest glory in living lies not in never falling, but in rising every time we fall. | JeevanSainik789
