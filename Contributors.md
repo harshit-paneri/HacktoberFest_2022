@@ -10,3 +10,10 @@ Deepesh Choudhary| Learn as if you will live forever, live like you will die tom
 Asim Ali DM| Just like the wild sea, keep expanding your boundaries. | asimdm
 Prateek Jaiswal| Nothing much just one step at a time | prateekj7777
 Abir Choudhury|Keep Smiling ,to be self motivated.Be calm in every situation ,to always take right Decisions.|abirchoudhury-26
+Naman sharma| Dive in first then judge | Naman-sharma00100
+Harsh Singh | Aim to change dark source to bright | Harshsingh21
+Anjali Kundliya | There is nothing impossible to they who will try. | anjali-kundliya05
+Sammi Kanon | Time, effort, sacrifice, and sweat. That is how you pay for your goals! | SammiKanon
+Lakshya | 😊Smile Makes Your Day Happy| lakshya-paneri
+Jeevan Sainik | The greatest glory in living lies not in never falling, but in rising every time we fall. | JeevanSainik789
+
