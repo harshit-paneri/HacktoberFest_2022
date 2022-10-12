@@ -23,3 +23,4 @@ Sunil Kumawat | The purpose of our lives is to make money. | sunil0517
 Mehul Jain | When we slow down and deeply listen, the differences dissolve. | mehuljain75
 Sanjay Menaria | Things are beautiful if you them. | sanjaymenaria03
 Hanshika Mehta | The bad news is time flies. The good news is you're the pilot | Hanshika-Mehta
+Patel Sakshee  |  soul fill of sunshine  | Sakshee1217
