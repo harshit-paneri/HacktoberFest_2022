@@ -26,4 +26,4 @@
 |     Sanjay Menaria      |                               Things are beautiful if you them.                                |     sanjaymenaria03     |
 |     Hanshika Mehta      |                 The bad news is time flies. The good news is you're the pilot                  |     Hanshika-Mehta      |
 |     Shreya              |                             Life is a long lession in humility                                 | 24shreya                |
-
+|    Syed Nida Ali        |          If everyone is moving forward together, then success takes care of itself.            |     syednida01          |
