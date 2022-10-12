@@ -16,7 +16,7 @@
 |       Harsh Singh       |                              Aim to change dark source to bright                               |      Harshsingh21       |
 |     Anjali Kundliya     |                       There is nothing impossible to they who will try.                        |    anjali-kundliya05    |
 |       Sammi Kanon       |            Time, effort, sacrifice, and sweat. That is how you pay for your goals!             |       SammiKanon        |
-|         Lakshya         |                                  😊Smile Makes Your Day Happy                                  |     lakshya-paneri      |
+|         Lakshya         |                                  Smile Makes Your Day Happy                                    |     lakshya-paneri      |
 |      Jeevan Sainik      |   The greatest glory in living lies not in never falling, but in rising every time we fall.    |     JeevanSainik789     |
 |        Yash Soni        |                                   Fortune Favours the brave                                    |      soniyash9000       |
 |      Kartik Patel       |                         Smile is a curve which makes everything Better                         |       KartikNP31        |
@@ -27,3 +27,4 @@
 |     Hanshika Mehta      |                 The bad news is time flies. The good news is you're the pilot                  |     Hanshika-Mehta      |
 |     Shreya              |                             Life is a long lession in humility                                 | 24shreya                |
 |    Syed Nida Ali        |          If everyone is moving forward together, then success takes care of itself.            |     syednida01          |
+|      Patel Sakshee      |                                  soul fill of sunshine                                         | Sakshee1217             |
