@@ -1,5 +1,6 @@
 ## Contributors list 📝
 
+
 |          Name           |                                             Quote                                              |        Username         |
 | :---------------------: | :--------------------------------------------------------------------------------------------: | :---------------------: |
 |     Harshit Paneri      |  Your mind is powerful. When you fill it with positive thoughts your whole world will change.  |     harshit-paneri      |
@@ -24,3 +25,5 @@
 |       Mehul Jain        |                 When we slow down and deeply listen, the differences dissolve.                 |       mehuljain75       |
 |     Sanjay Menaria      |                               Things are beautiful if you them.                                |     sanjaymenaria03     |
 |     Hanshika Mehta      |                 The bad news is time flies. The good news is you're the pilot                  |     Hanshika-Mehta      |
+|     Shreya              |                             Life is a long lession in humility                                 | 24shreya                |
+
