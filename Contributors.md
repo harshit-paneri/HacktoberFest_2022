@@ -31,3 +31,4 @@
 |     Madhav Singh        |                            I'm always be there to give my best                                 |      Madhav-2808        |
 |    Ishita Pagaria       |                              Create Your own happiness.                                        | ishitapagaria           |
 |    Harshali Jain        |                            Create your own peace and live in it.                               |    harshalijain14       |
+|    Punit Mishra         |                            You don't need a Cape to be a Superhero.                            |         T1NUP           |
