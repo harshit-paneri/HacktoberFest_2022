@@ -29,6 +29,7 @@
 |    Syed Nida Ali        |          If everyone is moving forward together, then success takes care of itself.            |     syednida01          |
 |      Patel Sakshee      |                                  soul fill of sunshine                                         | Sakshee1217             |
 |     Madhav Singh        |                            I'm always be there to give my best                                 |      Madhav-2808        |
+|     Terribly_Ill        |                            Everything is great until you get sick                              |     urnotsosmartru      |
 |     Monish Soni         |       Confidence is the First Step Towards Success                                             |      Madhav-2808        |
 |    Ishita Pagaria       |                              Create Your own happiness.                                        | ishitapagaria           |
 |    Harshali Jain        |                            Create your own peace and live in it.                               |    harshalijain14       |
