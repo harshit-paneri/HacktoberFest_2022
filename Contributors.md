@@ -37,7 +37,6 @@
 |    Dixant Mishra        |                               You are, what you need to do                                     |     dixant456           |               
 |    Yukti Jain           |                        Don't wish for it work for it                                           |   yukti02               |
 |    Jayshree Jsohi       |                   A room without books is like a body without a soul                           |      jayshree67         |
-|    Dixant Mishra        |                               You are, what you need to do                                     |     dixant456           |                      
-|    Yukti Jain           |   Don't wish for it work for it                                                                |   yukti02               |
+|    Dixant Mishra        |                               You are, what you need to do                                     |     dixant456           |
 |    Deepansha Baya       |        Don't be the same. Be better.                                                           |  deepanshabaya          |
 |    Avani Joshi          |        It isn't happening to you. It's happening for you.                                      |  avani07joshi           |
