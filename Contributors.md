@@ -40,3 +40,4 @@
 |    Dixant Mishra        |                               You are, what you need to do                                     |     dixant456           |
 |    Deepansha Baya       |        Don't be the same. Be better.                                                           |  deepanshabaya          |
 |    Avani Joshi          |        It isn't happening to you. It's happening for you.                                      |  avani07joshi           |
+|    Devraj Singh Rao     |        You are what you listen to                                                              |   devraj2102            |
