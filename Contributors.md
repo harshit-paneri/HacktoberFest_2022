@@ -42,3 +42,4 @@
 |    Avani Joshi          |        It isn't happening to you. It's happening for you.                                      |  avani07joshi           |
 |    somya champawat      |                                GOOD THINGS TAKE TIME.                                          |   somya0808             |
 |    Devraj Singh Rao     |        You are what you listen to                                                              |   devraj2102            |
+|    Omkar Khairnar       |       The future belongs to those who believe in the beauty of their dreams                    |   Omkar-Khairnar        |
