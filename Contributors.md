@@ -45,6 +45,7 @@
 |    Jash Hinger          |        PLease Dont spam me harshit paneri                                                      |   jashhinger_           |
 |    Omkar Khairnar       |       The future belongs to those who believe in the beauty of their dreams                    |   Omkar-Khairnar        |
 |    Saumitra             |       Kindness is the language which deaf can hear and blind can see                           |   saumitra2829          | 
+|    Vipra Mehta          |       The purpose of our lives is to be happy                                                  |    VipraMehta           | 
 |    Muskan Choudhary     |       Just upgrade urself eachday just like premium                                            |   muskanchoudhary001    |   
 |    Scaredy_cat          |       Money gathering gets easier as you get smarter                                           |    Thisisthethirdone    |
 |    shashi               |      stay cool!! stay calm !!                                                                  |   shashikala001         | 
