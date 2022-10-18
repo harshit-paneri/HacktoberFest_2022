@@ -44,5 +44,6 @@
 |    Devraj Singh Rao     |        You are what you listen to                                                              |   devraj2102            |
 |    Jash Hinger          |        PLease Dont spam me harshit paneri                                                      |   jashhinger_           |
 |    Omkar Khairnar       |       The future belongs to those who believe in the beauty of their dreams                    |   Omkar-Khairnar        |
-|    Saumitra             |       Kindness is the language which deaf can hear and blind can see                           |   saumitra2829
+|    Saumitra             |       Kindness is the language which deaf can hear and blind can see                           |   saumitra2829          | 
+|    Muskan Choudhary     |       Just upgrade urself eachday just like premium                                            |   muskanchoudhary001    |   
 
