@@ -47,3 +47,4 @@
 |    Saumitra             |       Kindness is the language which deaf can hear and blind can see                           |   saumitra2829          | 
 |    Muskan Choudhary     |       Just upgrade urself eachday just like premium                                            |   muskanchoudhary001    |   
 |    Scaredy_cat          |       Money gathering gets easier as you get smarter                                           |    Thisisthethirdone    |
+|    shashi               |      stay cool!! stay calm !!                                                                  |   shashikala001         | 
