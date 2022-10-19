@@ -49,4 +49,5 @@
 |    Muskan Choudhary     |       Just upgrade urself eachday just like premium                                            |   muskanchoudhary001    |   
 |    Scaredy_cat          |       Money gathering gets easier as you get smarter                                           |    Thisisthethirdone    |
 |    shashi               |      stay cool!! stay calm !!                                                                  |   shashikala001         | 
+|    umangbhalothia       |      keep your mind calm to stay cool n happier!!!!                                            |   umangbhalothia001     |
 |  jhalashya              |       beingb a bitch is not a bad thing                                                        |  jhalashyabhalothia     |
