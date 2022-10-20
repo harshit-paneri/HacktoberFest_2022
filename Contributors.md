@@ -52,3 +52,4 @@
 |    umangbhalothia       |      keep your mind calm to stay cool n happier!!!!                                            |   umangbhalothia001     |
 |  jhalashya              |       beingb a bitch is not a bad thing                                                        |  jhalashyabhalothia     |
 |  Shrey Maurya           |         In this world, fear has no place. Only strength respects strength.                     |  signifershrey          |
+|     Nikhil Mali         |           It doesn’t matter what we want. Once we get it, then we want something else.         |      nikkhilmali        |
