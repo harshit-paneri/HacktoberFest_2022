@@ -56,3 +56,4 @@
 |     Nikhil Mali         |           It doesn’t matter what we want. Once we get it, then we want something else.         |      nikkhilmali        |
 |     Akshi jain          |     The greatest glory in living lies not in never falling, but in rising every time we fall   |    akshi009             |
 |   Kartik Patel          |     Believe in yourself                                                                        | LetapKartik             |
+| Vaibhavraj Nath Chauhan |     Life is too short to cry on every p                                                        | Vaibhavraj-nath-chauhan |
