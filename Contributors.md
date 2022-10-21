@@ -55,3 +55,4 @@
 |  Shrey Maurya           |         In this world, fear has no place. Only strength respects strength.                     |  signifershrey          |
 |     Nikhil Mali         |           It doesn’t matter what we want. Once we get it, then we want something else.         |      nikkhilmali        |
 |     Akshi jain          |     The greatest glory in living lies not in never falling, but in rising every time we fall   |    akshi009             |
+|   Kartik Patel          |     Believe in yourself                                                                        | LetapKartik             |
