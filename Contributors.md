@@ -32,7 +32,8 @@
 |     Terribly_Ill        |                            Everything is great until you get sick                              |     urnotsosmartru      |
 |     Monish Soni         |       Confidence is the First Step Towards Success                                             |      Madhav-2808        |
 |    Ishita Pagaria       |                              Create Your own happiness.                                        | ishitapagaria           |
-|    Harshali Jain        |                            Create your own peace and live in it.                               |    harshalijain14       |
+|    Harshali Jain        |                            Create your own peace and live in it.                               |    harshalijain14  
+|    Kavyasree Gupta      |                If you have the courage to begin, you have the courage to succeed               |     donkeshkavya        |
 |    Punit Mishra         |                            You don't need a Cape to be a Superhero.                            |         T1NUP           |
 |    Dixant Mishra        |                               You are, what you need to do                                     |     dixant456           |               
 |    Yukti Jain           |                        Don't wish for it work for it                                           |   yukti02               |
