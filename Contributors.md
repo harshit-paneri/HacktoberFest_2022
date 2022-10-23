@@ -55,7 +55,8 @@
 |  Shrey Maurya           |         In this world, fear has no place. Only strength respects strength.                     |  signifershrey          |
 |     Nikhil Mali         |           It doesn’t matter what we want. Once we get it, then we want something else.         |      nikkhilmali        |
 |     Akshi jain          |     The greatest glory in living lies not in never falling, but in rising every time we fall   |    akshi009             |
+|   Aryan Blouria         |                    Who you are tommorow begins with what you do today                          |   aryanblouria          |
 |   Kartik Patel          |     Believe in yourself                                                                        | LetapKartik             |
 | Vaibhavraj Nath Chauhan |     Life is too short to cry on every p                                                        | Vaibhavraj-nath-chauhan |
-  Jayesh Farkya           |      If you are the smartest among your group then you are in a wrong group.                   |      The_Jayesh
+| Jayesh Farkya           |      If you are the smartest among your group then you are in a wrong group.                   |      The_Jayesh         |
 | Udaipur-Lover           |  Happiness is not by chance but by choices.                                                    |       Abir-New          |           
