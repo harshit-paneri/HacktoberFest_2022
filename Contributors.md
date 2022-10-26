@@ -61,4 +61,5 @@
 | Jayesh Farkya           |      If you are the smartest among your group then you are in a wrong group.                   |      The_Jayesh         |
 | Udaipur-Lover           |  Happiness is not by chance but by choices.                                                    |       Abir-New          |    
 | Lone Range              |  It always starts with one                                                                     |vaibhavraj-nath-chauhan-2|    
+| Abhishek Choudhary      |    Success is not final, failure is not fatal; it is the courage to continue that counts.      | AbhishekChoudhary23     |
 
