@@ -64,3 +64,5 @@
 | Abhishek Choudhary      |    Success is not final, failure is not fatal; it is the courage to continue that counts.      | AbhishekChoudhary23     |
 | Hruday Chowdary Gurijala|  let's get going. This work won't take care of itself                                          | HrudayGurijala          |
 | Abhi                    |     You can and you will.                                                                      | Jarvisabhi              |
+| Arun Gpund              | Always start early dont wait for the perfect time                                              | kakkarot0               |
+
