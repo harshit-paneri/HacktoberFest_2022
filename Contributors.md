@@ -67,3 +67,4 @@
 | Hruday Chowdary Gurijala|  let's get going. This work won't take care of itself                                          | HrudayGurijala          |
 | Abhi                    |     You can and you will.                                                                      | Jarvisabhi              |
 | Arun Gpund              | Always start early dont wait for the perfect time                                              | kakkarot0               |
+| Saqlain Zarjis Ansari   | There are no regrets in life, just lessons.                                                    | Mysterious786           |
