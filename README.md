@@ -1,3 +1,5 @@
+# Hello 👋🏻, This repo is not participating in Hacktoberfest, This is only for Demo or learning purpose.
+
 <img src="image/Hfest.png">
 
 # Hacktober Fest 2022
