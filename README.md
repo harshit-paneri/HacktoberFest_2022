@@ -36,10 +36,9 @@ To get started with contributing, check them out!
 
 ||
 |:-|
-|1. [This repository](https://github.com/harshit-paneri/HacktoberFest_2022)
-|2. [Canvas Game](https://github.com/harshit-paneri/canvas-game)|
-|3. [Basic Website with HTML and CSS only](https://github.com/Naman-sharma00100/Basic_website_HTML_CSS_only)|
-|4. [Web Location](https://github.com/harshit-paneri/Web-Location)|
+|1. [Canvas Game](https://github.com/harshit-paneri/canvas-game)|
+|2. [Basic Website with HTML and CSS only](https://github.com/Naman-sharma00100/Basic_website_HTML_CSS_only)|
+|3. [Web Location](https://github.com/harshit-paneri/Web-Location)|
 
 > For contributing in this repository, check the file `Contributors.md`.
 
