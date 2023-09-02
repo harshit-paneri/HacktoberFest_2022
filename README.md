@@ -1,11 +1,11 @@
-# Hello 👋🏻, This repo is not participating in Hacktoberfest, This is only for Demo or learning purpose.
+# Hello 👋🏻, This repo is not participating in Hacktoberfest, This is only for Demo or learning purposes.
 
 <img src="image/Hfest.png">
 
-# Hacktober Fest 2022
-👋🏻 If you're new to Git and GitHub or are looking to get started with open source development, this repository is for you! I want to help you learn about these technologies and participate in Hacktoberfest, so I've collected some resources to get you started.
+# Hacktober Fest 2023
+👋🏻 If you're new to Git and GitHub or are looking to get started with open-source development, this repository is for you! I want to help you learn about these technologies and participate in Hacktoberfest, so I've collected some resources to get you started.
 
-By chance if you haven't registered for HacktoberFest, register here **[Hacktober Fest 2022](https://hacktoberfest.com/)**.
+By chance if you haven't registered for HacktoberFest, register here **[HacktoberFest 2023](https://hacktoberfest.com/)**.
 
 > ⭐ **Star this repository** to not lose it!
 
@@ -14,7 +14,7 @@ By chance if you haven't registered for HacktoberFest, register here **[Hacktobe
 - [Git & GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics) by Kunal Kushwaha
 - [Learning Markdown](https://www.youtube.com/watch?v=OXZ77HvL_Yg) in 15 minutes from Eddie Jaoude
 - [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf) from Github
-- [ProGit](https://github.com/harshit-paneri/HacktoberFest_2022/blob/main/resources/progit.pdf)- A book written by Scott Chacon and Ben Straub.
+- [ProGit](https://github.com/harshit-paneri/HacktoberFest_2023/blob/main/resources/progit.pdf)- A book written by Scott Chacon and Ben Straub.
 
 ## RESOURCES FOR BEGINNERS
 
@@ -44,14 +44,14 @@ To get started with contributing, check them out!
 
 ## Getting Started 🤩🤗
 
-1. Fork this [repository](https://github.com/harshit-paneri/HacktoberFest_2022/fork).
+1. Fork this [repository](https://github.com/harshit-paneri/HacktoberFest_2023/fork).
 2. Clone on the repository to your local machine
 
     ```
     git clone <git repo>
     ```
 
-3. Navigate to cloned repository.
+3. Navigate to the cloned repository.
     ```
     cd filename
     ```
@@ -68,24 +68,24 @@ To get started with contributing, check them out!
     git add .
     ```
 
-6. Save your work, by commiting it.
+6. Save your work, by committing it.
     ```markdown
     git commit -m "first commit"
     ```
 
-7. Let's try pushing it on remote repository, in our case github!
+7. Let's try pushing it on a remote repository, in our case GitHub!
     ```
     git push origin my-new-branch
     ```
 
 8. Ready to share your work with others? So let's generate a Pull Request!
-    To do this, go to your forked github repository and `Create a Pull Request`.
+    To do this, go to your forked GitHub repository and `Create a Pull Request`.
 
 <br>
 
 ### Avoid Conflicts (Syncing the fork)
 
-An easy way to avoid conflicts is to add an `upstream` for your git repo, as other PR's may be merged while you're working on your branch/fork.
+An easy way to avoid conflicts is to add an `upstream` for your git repo, as other PRs may be merged while you're working on your branch/fork.
 
 ```
 git remote add upstream <git repo>
@@ -106,9 +106,9 @@ git merge upstream/master
 
 <details >
 <summary>How to Contribute?</summary>
-Try updating an existing feature or add a new feature !!
+Try updating an existing feature or adding a new feature !!
 
-Still no idea? Check out the issues in a github repository to see some work you can do.
+Still no idea? Check out the issues in a GitHub repository to see some work you can do.
 </details>
 
 <hr>
@@ -118,4 +118,4 @@ If you are getting started with contributing, you just need to add some details 
 </details>
 <hr>
 
->Check out the people who have [Contributed](https://harshit-paneri.github.io/HacktoberFest_2022/Contributors).
+>Check out the people who have [Contributed](https://harshit-paneri.github.io/HacktoberFest_2023/Contributors).
